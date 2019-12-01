@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/ 2019 edition",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kjuib/AdventOfCode2019.git"
+  },
+  "author": "Kjuib",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
